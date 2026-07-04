@@ -62,5 +62,6 @@ Pick the right Figma surface for our repeated hero-banner cleanup workflow. We n
 ## 4. 发布前结论
 
 - 当前可发布：是
-- GitHub 发布结果：待执行
-- 备注：如仓库名未被占用，可直接创建并推送 `main`
+- GitHub 发布结果：已发布
+- 仓库地址：https://github.com/ReiSei0824/figma-plugin-path-selector
+- 备注：2026-07-04 已创建公开仓库并推送 `main`
